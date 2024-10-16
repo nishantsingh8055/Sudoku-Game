@@ -1,2 +1,2 @@
 # Sudoku-Game
-Created this project using HTML, CSS and JS
+Created this project using C++
